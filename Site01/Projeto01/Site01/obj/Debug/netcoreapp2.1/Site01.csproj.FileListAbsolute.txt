@@ -1,0 +1,60 @@
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.deps.json
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.runtimeconfig.json
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.runtimeconfig.dev.json
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.dll
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.pdb
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csproj.CoreCompileInputs.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorAssemblyInfo.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorAssemblyInfo.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.AssemblyInfoInputs.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.AssemblyInfo.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorTargetAssemblyInfo.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.dll
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.pdb
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.Views.dll
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.Views.pdb
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.TagHelpers.input.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.TagHelpers.output.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorCoreGenerate.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorTargetAssemblyInfo.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.Views.pdb
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csproj.CopyComplete
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csprojAssemblyReference.cache
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Index.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Cadastrar.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Atualizar.g.cshtml.cs
+C:\Users\Benes\Documents\ASPNET\DESENVOLVIMENTO WEB\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.deps.json
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.runtimeconfig.json
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.runtimeconfig.dev.json
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.dll
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.pdb
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.Views.dll
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\bin\Debug\netcoreapp2.1\Site01.Views.pdb
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csproj.AssemblyReference.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.AssemblyInfoInputs.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.AssemblyInfo.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csproj.CoreCompileInputs.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorAssemblyInfo.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorAssemblyInfo.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.TagHelpers.input.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.TagHelpers.output.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorCoreGenerate.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Atualizar.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Cadastrar.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Palavra\Index.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorTargetAssemblyInfo.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.RazorTargetAssemblyInfo.cs
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.Views.pdb
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.dll
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.pdb
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.genruntimeconfig.cache
+C:\Users\fabriciopereira\Desktop\site\Site01\Projeto01\Site01\obj\Debug\netcoreapp2.1\Site01.csproj.CopyComplete
